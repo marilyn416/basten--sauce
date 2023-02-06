@@ -143,9 +143,9 @@ text-size-adjust: ;
   padding-bottom: 100px;
 }
 #home h1,
-.typewriter h1 {
+.typewriter h2 {
   color: #fff;
-  font-family: monospace;
+
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
